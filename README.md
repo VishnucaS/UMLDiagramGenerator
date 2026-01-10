@@ -1,4 +1,4 @@
-# Automated UML Diagram Generator
+# Automated Generation of UML Diagram
 
 Converting **Natural Language** Requirements into **UML Diagrams** Automatically
 
